@@ -34,7 +34,7 @@ A fixed navigation menu makes it easy to access the main sections (Home, Log, an
 - **PHP Integration**:
 The application dynamically loads participant data using PHP, using an internal library for template management and business logic.
 
-# 🔧 Tecnologías Utilizadas
+# 🔧 Technologies Used
 - **PHP**: Lógica del servidor y manejo de plantillas.
 - **HTML5 & CSS3**: Estructura y diseño responsivo.
 - **Google Fonts**: Fuente 'Poppins' para una apariencia moderna y estilizada.
