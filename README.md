@@ -3,7 +3,7 @@
 > [!IMPORTANT]  
 > Welcome to the **Tournament of Strength**, a web application that allows you to register and view participants in an exciting combat tournament. Using PHP for server-side logic and HTML5/CSS3 for a modern and responsive interface, this project offers a dynamic and interactive experience.
 >  
-> Show off your power, sign up, and check participant stats!
+> Show off your power, and check participant stats!
 
 <div style="display: flex;">
   <img src="https://github.com/user-attachments/assets/560d53a0-3a3e-4a47-aa22-721b08ec97b9" width="49%"></img> 
